@@ -1,0 +1,16 @@
+{
+    "index": [
+        {
+            "title": "తెలుగు బైబిల్",
+            "subtitle": "Telugu Bible",
+            "lang": "telugu",
+            "status": true
+        },
+        {
+            "title": "King James Version",
+            "subtitle": "King James Version",
+            "lang": "kjv",
+            "status": false
+        }
+    ]
+}
