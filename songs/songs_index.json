@@ -1,11 +1,15 @@
 {
     "songsIndex": [
         {
-            "lang": "Telugu",
+            "title": "తెలుగు పాటలు",
+            "subtitle": "Telugu Songs",
+            "lang": "telugu",
             "status": true
         },
         {
-            "lang": "English",
+            "title": "English Songs",
+            "subtitle": "English Songs",
+            "lang": "english",
             "status": false
         }
     ]
